@@ -3,11 +3,12 @@ div {
     color: white;
     border-style: solid; 
     text-align: center;
+    cursor: cell;
 
 }
 ul {
     display: inline-block;
 }
 img {
-    
-}
+    border: 5px solid rgb(189, 189, 189);
+  }
