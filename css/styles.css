@@ -1,5 +1,13 @@
 div {
     background-color: black;
     color: white;
-border: black;
+    border-style: solid; 
+    text-align: center;
+
+}
+ul {
+    display: inline-block;
+}
+img {
+    
 }
